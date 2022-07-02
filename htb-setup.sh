@@ -1,5 +1,4 @@
 #!/bin/sh
-echo hello world
 working_directory=$(pwd)
 apt-get update
 apt-get install -y ghidra
